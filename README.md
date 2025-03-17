@@ -1,83 +1,87 @@
 # Document Processing API Dashboard
 
-Este proyecto consiste en una aplicación web para el procesamiento de documentos, compuesta por un backend en .NET 9 y un frontend en React.
+This project consists of a web application for document processing, composed of a .NET 9 backend and a React frontend.
 
-## Requisitos Previos
+## Prerequisites
 
 ### Backend
 - [.NET 9 SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/es/) (recomendado) o [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/es/) (recommended) or [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Frontend
-- [Node.js](https://nodejs.org/) (versión 18 o superior)
-- [npm](https://www.npmjs.com/) (incluido con Node.js)
+- [Node.js](https://nodejs.org/) (version 18 or higher)
+- [npm](https://www.npmjs.com/) (included with Node.js)
 
-## Configuración del Proyecto
+## Project Setup
 
 ### Backend (.NET)
 
-1. Configurar la base de datos:
-   - Abrir SQL Server Management Studio
-   - Ejecutar el script `BackendNet9/scriptDocument.sql` para crear la base de datos y sus tablas
+1. Database setup:
+   - Open SQL Server Management Studio
+   - Execute the script `BackendNet9/scriptDocument.sql` to create the database and its tables
 
-2. Configurar el Backend:
-   - Abrir la solución `BackendNet9/SolutionDocument/SolutionDocument.sln` en Visual Studio
-   - Verificar la cadena de conexión en el archivo `appsettings.json`
-   - Restaurar los paquetes NuGet
-   - Compilar la solución
+2. Backend configuration:
+   - Open the solution `BackendNet9/SolutionDocument/SolutionDocument.sln` in Visual Studio
+   - Verify the connection string in the `appsettings.json` file
+   - Restore NuGet packages
+   - Build the solution
 
 ### Frontend (React)
 
-1. Navegar al directorio del frontend:
+1. Navigate to the frontend directory:
    ```bash
    cd FrontEnd/document-processing-frontend
    ```
 
-2. Instalar las dependencias:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-## Ejecutar la Aplicación
+## Running the Application
 
 ### Backend
-1. Desde Visual Studio:
-   - Presionar F5 o hacer clic en el botón "Iniciar"
-   - El API estará disponible en `https://localhost:7777` (verificar el puerto exacto en las propiedades del proyecto)
+1. From Visual Studio:
+   - Press F5 or click the "Start" button
+   - The API will be available at `https://localhost:7201/swagger/index.html` (verify the exact port in the project properties)
 
-2. Desde línea de comandos:
+2. From command line:
    ```bash
    cd BackendNet9/SolutionDocument
    dotnet run
    ```
 
 ### Frontend
-1. Navegar al directorio del frontend:
+1. Navigate to the frontend directory:
    ```bash
    cd FrontEnd/document-processing-frontend
    ```
 
-2. Iniciar la aplicación en modo desarrollo:
+2. Start the application in development mode:
    ```bash
    npm start
    ```
-   - La aplicación estará disponible en `http://localhost:3000`
+   - The application will be available at `http://localhost:3000`
 
-## Estructura del Proyecto
+## Project Structure
 
 ### Backend
-- `BackendNet9/`: Contiene el proyecto backend en .NET 9
-  - `scriptDocument.sql`: Script para la creación de la base de datos
-  - `SolutionDocument/`: Solución principal del backend
+- `BackendNet9/`: Contains the .NET 9 backend project
+  - `scriptDocument.sql`: Database creation script
+  - `SolutionDocument/`: Main backend solution
 
 ### Frontend
-- `FrontEnd/`: Contiene el proyecto frontend en React
-  - `document-processing-frontend/`: Aplicación React
+- `FrontEnd/`: Contains the React frontend project
+  - `document-processing-frontend/`: React application
 
-## Características Principales
-- Procesamiento de documentos
-- Dashboard interactivo
-- Gestión de documentos
-- API RESTful
-- Interfaz de usuario moderna y responsive
+## Main Features
+- Document processing
+- Interactive dashboard
+- Document management
+- RESTful API
+- Modern and responsive user interface
+
+## Support
+
+For any issues or inquiries, please create an issue in the repository.
