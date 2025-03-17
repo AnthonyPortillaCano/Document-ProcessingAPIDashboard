@@ -82,6 +82,9 @@ This project consists of a web application for document processing, composed of 
 - RESTful API
 - Modern and responsive user interface
 
+  ## Test File
+   [prueba1.zip](https://github.com/user-attachments/files/19293074/prueba1.zip)
+   This file is used to test the upload.
 ## Support
 
 For any issues or inquiries, please create an issue in the repository.
