@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TZUUJgfQySxtaRzUPhIJ++8Yz7f8zBwDoGXWrgchPXM=",
+  "Source": "CleanArchitecture.MinimalApi",
+  "BasePath": "_content/CleanArchitecture.MinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.deps.json
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.runtimeconfig.json
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Domain.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\bin\Debug\net9.0\CleanArchitecture.Domain.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.csproj.AssemblyReference.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.AssemblyInfoInputs.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.AssemblyInfo.cs
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.csproj.CoreCompileInputs.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArc.28E16A36.Up2Date
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\refint\CleanArchitecture.Infraestructure.Data.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\CleanArchitecture.Infraestructure.Data.genruntimeconfig.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Infraestructure.Data\obj\Debug\net9.0\ref\CleanArchitecture.Infraestructure.Data.dll

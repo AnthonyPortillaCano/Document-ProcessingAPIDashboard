@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "CleanArchitecture.MinimalApi.DocumentEndpoints",
+    "Method": "GetAllDocuments",
+    "RelativePath": "Api/Document/documents",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CleanArchitecture.MinimalApi.DocumentEndpoints",
+    "Method": "GetDocumentById",
+    "RelativePath": "Api/Document/documents/{id}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CleanArchitecture.MinimalApi.DocumentEndpoints",
+    "Method": "HandleFileUpload",
+    "RelativePath": "Api/Document/upload",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

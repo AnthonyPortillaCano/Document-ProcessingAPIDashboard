@@ -1,0 +1,17 @@
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Application.deps.json
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Application.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Application.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Domain.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Domain.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\bin\Debug\net9.0\CleanArchitecture.Infraestructure.Data.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArc.03AFA812.Up2Date
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\refint\CleanArchitecture.Application.dll
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.pdb
+D:\PacificTest\TechnicalTest\BackendNet9\SolutionDocument\CleanArchitecture.Application\obj\Debug\net9.0\ref\CleanArchitecture.Application.dll
